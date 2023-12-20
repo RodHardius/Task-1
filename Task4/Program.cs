@@ -1,8 +1,8 @@
-﻿int a = 6;
-int b = 7;
-int c = 9;
-int d = 4;
-int e = 10;
+﻿int a = 20;
+int b = 13;
+int c = 4;
+int d = 37;
+int e = 18;
 
 int max = a;
 
