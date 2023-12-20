@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\c#\\Task2\\Task2.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\c#\\lesson1\\Task2\\Task2.csproj",
       "projectName": "Task2",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\c#\\Task2\\Task2.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\c#\\lesson1\\Task2\\Task2.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\c#\\Task2\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\c#\\lesson1\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
