@@ -1,5 +1,5 @@
-﻿int a = 100;
-int b = 30;
+﻿int a = 149;
+int b = 265;
 
 if (a > b)
 {
