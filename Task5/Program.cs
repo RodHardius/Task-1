@@ -1,5 +1,5 @@
-﻿int n = 100;
-int i = 1;
+﻿int n = 50;
+int i = 25;
 
 while (i <= n)
 {
